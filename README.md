@@ -1,2 +1,2 @@
 # Type-Script
-Learn Type Script.
+Learn Basics of Type Script.
